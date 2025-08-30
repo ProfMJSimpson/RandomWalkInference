@@ -1,2 +1,4 @@
 # RandomWalkInference
-Jupyter notebooks containing Julia code to support Simpson and Plank:  Inference and prediction for random walk models in biology.
+Jupyter notebooks containing Julia code to support Simpson and Plank:  Inference and prediction for stochastic models of biological populations undergoing migration and proliferation.
+
+The preprint is available at biorxiv https://www.biorxiv.org/content/10.1101/2025.05.25.656057
