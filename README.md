@@ -3,4 +3,5 @@ Jupyter notebooks containing Julia code to support Simpson and Plank:  Inference
 
 The preprint is available at biorxiv https://www.biorxiv.org/content/10.1101/2025.05.25.656057
 
-This preprint will appear in Journal of the Royal Society Interface in 2025.
+This preprint appeared in Journal of the Royal Society Interface in 2025, available at https://doi.org/10.1098/rsif.2025.0536
+
